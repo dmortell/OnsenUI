@@ -10,3 +10,5 @@ module-stats*.html
 /build
 /OnsenUI-dist
 docs/gendocs
+bindings/svelte2/
+
